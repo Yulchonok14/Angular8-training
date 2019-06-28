@@ -1,0 +1,1 @@
+{"version":3,"file":"ingredient.model.js","sourceRoot":"","sources":["ingredient.model.ts"],"names":["Ingredient","Ingredient.constructor"],"mappings":"AAAA;IACEA,oBAAmBA,IAAYA,EAASA,MAAcA;QAAnCC,SAAIA,GAAJA,IAAIA,CAAQA;QAASA,WAAMA,GAANA,MAAMA,CAAQA;IAAGA,CAACA;IAC5DD,iBAACA;AAADA,CAACA,AAFD,IAEC;AAFY,kBAAU,aAEtB,CAAA"}
